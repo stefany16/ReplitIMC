@@ -1,6 +1,6 @@
 # ReplitIMC
 
-### introducao
+### introdução
 Meu projeto de teste de controle versão replit e github 
 
 ### projeto
